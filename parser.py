@@ -5,15 +5,11 @@ with open('dump', 'r') as dump:
     dics = list()
     for line in dump:
         arr = line.split('|')
-        if "''" in arr[3]:
-            uniq = True
-        else:
-            uniq = False
         dic = {
             "name": arr[3].strip("''"),
             "race": arr[2],
             "level": int(arr[1]),
-            "unique": uniq,
+            "unique": True if "''" in arr[3] else False,
             "HP": int(arr[4]),
             "MP": int(arr[5]),
             "st": int(arr[6]),
