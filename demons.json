@@ -1,0 +1,3334 @@
+[
+    {
+        "name": "サラスヴァティ",
+        "race": "女神",
+        "level": 12,
+        "unique": false,
+        "HP": 90,
+        "MP": 76,
+        "st": 5,
+        "ma": 12,
+        "vi": 6,
+        "ag": 5,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "耐",
+        "mystic": "無",
+        "commands": [
+            "ディア",
+            "嵐の乱舞"
+        ],
+        "passives": [
+            "耐衝撃"
+        ],
+        "racial": "女神の慈愛"
+    },
+    {
+        "name": "キクリヒメ",
+        "race": "女神",
+        "level": 21,
+        "unique": false,
+        "HP": 150,
+        "MP": 105,
+        "st": 8,
+        "ma": 14,
+        "vi": 9,
+        "ag": 6,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "メディア",
+            "リカーム"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "女神の慈愛"
+    },
+    {
+        "name": "イシュタル",
+        "race": "女神",
+        "level": 29,
+        "unique": false,
+        "HP": 190,
+        "MP": 151,
+        "st": 9,
+        "ma": 17,
+        "vi": 9,
+        "ag": 10,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "リカーム",
+            "ディアラハン"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "女神の慈愛"
+    },
+    {
+        "name": "ブリジット",
+        "race": "女神",
+        "level": 36,
+        "unique": false,
+        "HP": 230,
+        "MP": 165,
+        "st": 10,
+        "ma": 19,
+        "vi": 10,
+        "ag": 14,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "弱",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "ディアラハン"
+        ],
+        "passives": [
+            "火炎無効"
+        ],
+        "racial": "女神の慈愛"
+    },
+    {
+        "name": "ラクシュミ",
+        "race": "女神",
+        "level": 48,
+        "unique": false,
+        "HP": 279,
+        "MP": 234,
+        "st": 14,
+        "ma": 23,
+        "vi": 14,
+        "ag": 13,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "反",
+        "commands": [
+            "メディアラハン",
+            "サマリカーム"
+        ],
+        "passives": [
+            "三分の魔脈"
+        ],
+        "racial": "女神の慈愛"
+    },
+    {
+        "name": "ノルン",
+        "race": "女神",
+        "level": 55,
+        "unique": true,
+        "HP": 345,
+        "MP": 231,
+        "st": 17,
+        "ma": 22,
+        "vi": 14,
+        "ag": 18,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "反",
+        "mystic": "耐",
+        "commands": [
+            "常世の祈り"
+        ],
+        "passives": [
+            "勝利のチャクラ"
+        ],
+        "racial": "女神の慈愛"
+    },
+    {
+        "name": "ブラックマリア",
+        "race": "女神",
+        "level": 66,
+        "unique": false,
+        "HP": 415,
+        "MP": 294,
+        "st": 20,
+        "ma": 26,
+        "vi": 17,
+        "ag": 19,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "吸",
+        "elec": "弱",
+        "force": "耐",
+        "mystic": "ー",
+        "commands": [
+            "ディアラハン"
+        ],
+        "passives": [
+            "氷結吸収"
+        ],
+        "racial": "女神の慈愛"
+    },
+    {
+        "name": "アマテラス",
+        "race": "女神",
+        "level": 73,
+        "unique": true,
+        "HP": 465,
+        "MP": 306,
+        "st": 21,
+        "ma": 29,
+        "vi": 20,
+        "ag": 19,
+        "phys": "ー",
+        "fire": "無",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "無",
+        "mystic": "ー",
+        "commands": [
+            "常世の祈り",
+            "リカームロス"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "女神の慈愛"
+    },
+    {
+        "name": "トール",
+        "race": "魔神",
+        "level": 16,
+        "unique": true,
+        "HP": 175,
+        "MP": 24,
+        "st": 17,
+        "ma": 3,
+        "vi": 11,
+        "ag": 1,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "吸",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "雷の乱舞"
+        ],
+        "passives": [
+            "反撃"
+        ],
+        "racial": "魔力覚醒"
+    },
+    {
+        "name": "マハカーラ",
+        "race": "魔神",
+        "level": 26,
+        "unique": false,
+        "HP": 210,
+        "MP": 83,
+        "st": 12,
+        "ma": 12,
+        "vi": 11,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "弱",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "会心の予言"
+        ],
+        "passives": [
+            "戦神の加護"
+        ],
+        "racial": "魔力覚醒"
+    },
+    {
+        "name": "オーディン",
+        "race": "魔神",
+        "level": 38,
+        "unique": true,
+        "HP": 296,
+        "MP": 142,
+        "st": 11,
+        "ma": 19,
+        "vi": 14,
+        "ag": 10,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "耐",
+        "elec": "無",
+        "force": "弱",
+        "mystic": "耐",
+        "commands": [
+            "護りの盾"
+        ],
+        "passives": [
+            "電撃無効"
+        ],
+        "racial": "魔力覚醒"
+    },
+    {
+        "name": "ヤマ",
+        "race": "魔神",
+        "level": 45,
+        "unique": true,
+        "HP": 342,
+        "MP": 122,
+        "st": 22,
+        "ma": 16,
+        "vi": 12,
+        "ag": 11,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "アギダイン"
+        ],
+        "passives": [
+            "火炎激化"
+        ],
+        "racial": "魔力覚醒"
+    },
+    {
+        "name": "シヴァ",
+        "race": "魔神",
+        "level": 61,
+        "unique": true,
+        "HP": 504,
+        "MP": 162,
+        "st": 23,
+        "ma": 20,
+        "vi": 23,
+        "ag": 18,
+        "phys": "耐",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "無",
+        "commands": [
+            "八相発破"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "魔力覚醒"
+    },
+    {
+        "name": "スサノオ",
+        "race": "魔神",
+        "level": 72,
+        "unique": true,
+        "HP": 552,
+        "MP": 194,
+        "st": 29,
+        "ma": 25,
+        "vi": 20,
+        "ag": 12,
+        "phys": "反",
+        "fire": "ー",
+        "ice": "弱",
+        "elec": "耐",
+        "force": "吸",
+        "mystic": "ー",
+        "commands": [
+            "貫通の一撃",
+            "マハザンダイン"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "魔力覚醒"
+    },
+    {
+        "name": "アスラおう",
+        "race": "魔神",
+        "level": 80,
+        "unique": true,
+        "HP": 824,
+        "MP": 206,
+        "st": 28,
+        "ma": 23,
+        "vi": 23,
+        "ag": 22,
+        "phys": "ー",
+        "fire": "吸",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "メギドラオン"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "魔力覚醒"
+    },
+    {
+        "name": "オーカス",
+        "race": "邪神",
+        "level": 22,
+        "unique": false,
+        "HP": 204,
+        "MP": 50,
+        "st": 18,
+        "ma": 3,
+        "vi": 12,
+        "ag": 5,
+        "phys": "弱",
+        "fire": "ー",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "絶妙打"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "混沌の波動"
+    },
+    {
+        "name": "パズス",
+        "race": "邪神",
+        "level": 35,
+        "unique": true,
+        "HP": 255,
+        "MP": 150,
+        "st": 13,
+        "ma": 15,
+        "vi": 16,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "万魔の乱舞"
+        ],
+        "passives": [
+            "吸収追加",
+            "衝撃無効"
+        ],
+        "racial": "混沌の波動"
+    },
+    {
+        "name": "アバドン",
+        "race": "邪神",
+        "level": 40,
+        "unique": false,
+        "HP": 270,
+        "MP": 168,
+        "st": 15,
+        "ma": 16,
+        "vi": 14,
+        "ag": 11,
+        "phys": "弱",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "耐",
+        "commands": [
+            "ブフダイン"
+        ],
+        "passives": [
+            "氷結無効",
+            "全門耐性"
+        ],
+        "racial": "混沌の波動"
+    },
+    {
+        "name": "トウテツ",
+        "race": "邪神",
+        "level": 47,
+        "unique": true,
+        "HP": 352,
+        "MP": 195,
+        "st": 15,
+        "ma": 18,
+        "vi": 17,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "マカジャマオン",
+            "メギド"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "混沌の波動"
+    },
+    {
+        "name": "アリオク",
+        "race": "邪神",
+        "level": 56,
+        "unique": true,
+        "HP": 555,
+        "MP": 70,
+        "st": 23,
+        "ma": 14,
+        "vi": 18,
+        "ag": 17,
+        "phys": "無",
+        "fire": "弱",
+        "ice": "耐",
+        "elec": "ー",
+        "force": "耐",
+        "mystic": "弱",
+        "commands": [
+            "デスバウンド",
+            "テトラカーン"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "混沌の波動"
+    },
+    {
+        "name": "バフォメット",
+        "race": "邪神",
+        "level": 69,
+        "unique": true,
+        "HP": 522,
+        "MP": 176,
+        "st": 26,
+        "ma": 19,
+        "vi": 18,
+        "ag": 22,
+        "phys": "ー",
+        "fire": "吸",
+        "ice": "吸",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "耐",
+        "commands": [
+            "万魔の乱舞"
+        ],
+        "passives": [
+            "超反撃"
+        ],
+        "racial": "混沌の波動"
+    },
+    {
+        "name": "ニャルラトホテプ",
+        "race": "邪神",
+        "level": 78,
+        "unique": true,
+        "HP": 485,
+        "MP": 300,
+        "st": 30,
+        "ma": 22,
+        "vi": 19,
+        "ag": 23,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "耐",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "勝利のチャクラ"
+        ],
+        "racial": "混沌の波動"
+    },
+    {
+        "name": "マカラ",
+        "race": "龍王",
+        "level": 14,
+        "unique": false,
+        "HP": 146,
+        "MP": 44,
+        "st": 7,
+        "ma": 8,
+        "vi": 6,
+        "ag": 9,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "反",
+        "force": "弱",
+        "mystic": "耐",
+        "commands": [
+            "覚悟の挑発",
+            "ディア"
+        ],
+        "passives": [
+            "耐魔力"
+        ],
+        "racial": "龍胴絞め"
+    },
+    {
+        "name": "ペンドラゴン",
+        "race": "龍王",
+        "level": 21,
+        "unique": false,
+        "HP": 196,
+        "MP": 26,
+        "st": 20,
+        "ma": 5,
+        "vi": 7,
+        "ag": 5,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "弱",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "炎の乱舞"
+        ],
+        "passives": [
+            "耐魔力",
+            "聖騎士の精神"
+        ],
+        "racial": "龍胴絞め"
+    },
+    {
+        "name": "ケツアルカトル",
+        "race": "龍王",
+        "level": 31,
+        "unique": false,
+        "HP": 318,
+        "MP": 78,
+        "st": 12,
+        "ma": 8,
+        "vi": 22,
+        "ag": 5,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "無",
+        "elec": "弱",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "マハブフ"
+        ],
+        "passives": [
+            "石化追加",
+            "勝利の息吹"
+        ],
+        "racial": "龍胴絞め"
+    },
+    {
+        "name": "セイリュウ",
+        "race": "龍王",
+        "level": 46,
+        "unique": false,
+        "HP": 360,
+        "MP": 116,
+        "st": 19,
+        "ma": 12,
+        "vi": 14,
+        "ag": 17,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "弱",
+        "mystic": "耐",
+        "commands": [
+            "マハジオ"
+        ],
+        "passives": [
+            "電撃激化",
+            "電撃反射"
+        ],
+        "racial": "龍胴絞め"
+    },
+    {
+        "name": "ヤマタノオロチ",
+        "race": "龍王",
+        "level": 59,
+        "unique": false,
+        "HP": 560,
+        "MP": 73,
+        "st": 26,
+        "ma": 14,
+        "vi": 21,
+        "ag": 14,
+        "phys": "ー",
+        "fire": "吸",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "八相発破"
+        ],
+        "passives": [
+            "火事場の馬鹿力"
+        ],
+        "racial": "龍胴絞め"
+    },
+    {
+        "name": "アナンタ",
+        "race": "龍王",
+        "level": 71,
+        "unique": true,
+        "HP": 665,
+        "MP": 180,
+        "st": 30,
+        "ma": 19,
+        "vi": 24,
+        "ag": 13,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "マカラカーン"
+        ],
+        "passives": [
+            "攻撃全体化"
+        ],
+        "racial": "龍胴絞め"
+    },
+    {
+        "name": "ユルング",
+        "race": "龍王",
+        "level": 85,
+        "unique": true,
+        "HP": 791,
+        "MP": 224,
+        "st": 35,
+        "ma": 22,
+        "vi": 28,
+        "ag": 16,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "吸",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "耐",
+        "commands": [
+            "夢喰い",
+            "万魔の乱舞"
+        ],
+        "passives": [
+            "全門耐性"
+        ],
+        "racial": "龍胴絞め"
+    },
+    {
+        "name": "トウビョウ",
+        "race": "邪龍",
+        "level": 15,
+        "unique": false,
+        "HP": 126,
+        "MP": 44,
+        "st": 8,
+        "ma": 7,
+        "vi": 6,
+        "ag": 8,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "弱",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "ジオ"
+        ],
+        "passives": [
+            "一分の活泉",
+            "封魔追加"
+        ],
+        "racial": "邪念の波動"
+    },
+    {
+        "name": "バジリスク",
+        "race": "邪龍",
+        "level": 25,
+        "unique": false,
+        "HP": 197,
+        "MP": 74,
+        "st": 13,
+        "ma": 12,
+        "vi": 9,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "弱",
+        "force": "耐",
+        "mystic": "反",
+        "commands": [
+            "ペトラレイ"
+        ],
+        "passives": [
+            "耐衝撃",
+            "石化追加"
+        ],
+        "racial": "邪念の波動"
+    },
+    {
+        "name": "ヤム",
+        "race": "邪龍",
+        "level": 32,
+        "unique": false,
+        "HP": 240,
+        "MP": 96,
+        "st": 11,
+        "ma": 16,
+        "vi": 8,
+        "ag": 13,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "無",
+        "commands": [
+            "ペトラレイ",
+            "万魔の乱舞"
+        ],
+        "passives": [
+            "見覚えの成長"
+        ],
+        "racial": "邪念の波動"
+    },
+    {
+        "name": "ピュートーン",
+        "race": "邪龍",
+        "level": 39,
+        "unique": false,
+        "HP": 301,
+        "MP": 118,
+        "st": 10,
+        "ma": 20,
+        "vi": 13,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "弱",
+        "mystic": "弱",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "邪念の波動"
+    },
+    {
+        "name": "クエレプレ",
+        "race": "邪龍",
+        "level": 47,
+        "unique": false,
+        "HP": 360,
+        "MP": 130,
+        "st": 16,
+        "ma": 18,
+        "vi": 13,
+        "ag": 13,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "反",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "ブフダイン",
+            "マハブフダイン"
+        ],
+        "passives": [
+            "氷結反射"
+        ],
+        "racial": "邪念の波動"
+    },
+    {
+        "name": "ファフニール",
+        "race": "邪龍",
+        "level": 64,
+        "unique": false,
+        "HP": 552,
+        "MP": 162,
+        "st": 24,
+        "ma": 17,
+        "vi": 21,
+        "ag": 18,
+        "phys": "耐",
+        "fire": "弱",
+        "ice": "無",
+        "elec": "弱",
+        "force": "吸",
+        "mystic": "ー",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "衝撃吸収"
+        ],
+        "racial": "邪念の波動"
+    },
+    {
+        "name": "エンジェル",
+        "race": "天使",
+        "level": 14,
+        "unique": false,
+        "HP": 126,
+        "MP": 44,
+        "st": 8,
+        "ma": 8,
+        "vi": 7,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "耐",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "耐",
+        "commands": [
+            "ディア"
+        ],
+        "passives": [
+            "封魔追加"
+        ],
+        "racial": "天使の血杯"
+    },
+    {
+        "name": "パワー",
+        "race": "天使",
+        "level": 26,
+        "unique": false,
+        "HP": 240,
+        "MP": 52,
+        "st": 15,
+        "ma": 7,
+        "vi": 14,
+        "ag": 6,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "渾身の一撃",
+            "リカーム"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "天使の血杯"
+    },
+    {
+        "name": "ライラ",
+        "race": "天使",
+        "level": 34,
+        "unique": false,
+        "HP": 231,
+        "MP": 150,
+        "st": 14,
+        "ma": 16,
+        "vi": 8,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "無",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "マハブフ"
+        ],
+        "passives": [
+            "氷結激化"
+        ],
+        "racial": "天使の血杯"
+    },
+    {
+        "name": "アニエル",
+        "race": "天使",
+        "level": 47,
+        "unique": false,
+        "HP": 455,
+        "MP": 116,
+        "st": 21,
+        "ma": 11,
+        "vi": 18,
+        "ag": 13,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "無",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "ー",
+        "commands": [
+            "万魔の乱舞",
+            "マハジオダイン"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "天使の血杯"
+    },
+    {
+        "name": "カズフェル",
+        "race": "天使",
+        "level": 58,
+        "unique": false,
+        "HP": 483,
+        "MP": 152,
+        "st": 23,
+        "ma": 18,
+        "vi": 20,
+        "ag": 13,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "反",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "裁きの雷火"
+        ],
+        "passives": [
+            "氷結反射"
+        ],
+        "racial": "天使の血杯"
+    },
+    {
+        "name": "スラオシャ",
+        "race": "天使",
+        "level": 65,
+        "unique": false,
+        "HP": 520,
+        "MP": 204,
+        "st": 15,
+        "ma": 28,
+        "vi": 15,
+        "ag": 23,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "吸",
+        "mystic": "ー",
+        "commands": [
+            "マハジオダイン",
+            "常世の祈り"
+        ],
+        "passives": [
+            "電撃吸収"
+        ],
+        "racial": "天使の血杯"
+    },
+    {
+        "name": "レミエル",
+        "race": "天使",
+        "level": 75,
+        "unique": true,
+        "HP": 639,
+        "MP": 282,
+        "st": 27,
+        "ma": 26,
+        "vi": 19,
+        "ag": 19,
+        "phys": "吸",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "サマリカーム"
+        ],
+        "passives": [
+            "物理吸収"
+        ],
+        "racial": "天使の血杯"
+    },
+    {
+        "name": "メタトロン",
+        "race": "天使",
+        "level": 89,
+        "unique": true,
+        "HP": 904,
+        "MP": 242,
+        "st": 29,
+        "ma": 32,
+        "vi": 24,
+        "ag": 20,
+        "phys": "無",
+        "fire": "無",
+        "ice": "弱",
+        "elec": "弱",
+        "force": "無",
+        "mystic": "反",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "勝利の雄叫び"
+        ],
+        "racial": "天使の血杯"
+    },
+    {
+        "name": "モー・ショボー",
+        "race": "霊鳥",
+        "level": 7,
+        "unique": false,
+        "HP": 72,
+        "MP": 27,
+        "st": 6,
+        "ma": 5,
+        "vi": 5,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "吸",
+        "force": "弱",
+        "mystic": "耐",
+        "commands": [
+            "ブフ"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "飛翔"
+    },
+    {
+        "name": "スパルナ",
+        "race": "霊鳥",
+        "level": 18,
+        "unique": false,
+        "HP": 130,
+        "MP": 81,
+        "st": 7,
+        "ma": 9,
+        "vi": 8,
+        "ag": 10,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "弱",
+        "force": "耐",
+        "mystic": "弱",
+        "commands": [
+            "嵐の乱舞",
+            "パララレイ"
+        ],
+        "passives": [
+            "マヒ追加"
+        ],
+        "racial": "飛翔"
+    },
+    {
+        "name": "ヴィゾフニル",
+        "race": "霊鳥",
+        "level": 25,
+        "unique": false,
+        "HP": 186,
+        "MP": 66,
+        "st": 13,
+        "ma": 8,
+        "vi": 6,
+        "ag": 14,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "吸",
+        "force": "弱",
+        "mystic": "ー",
+        "commands": [
+            "マハジオ",
+            "吸魔"
+        ],
+        "passives": [
+            "封魔追加"
+        ],
+        "racial": "飛翔"
+    },
+    {
+        "name": "バイブ・カハ",
+        "race": "霊鳥",
+        "level": 34,
+        "unique": false,
+        "HP": 259,
+        "MP": 107,
+        "st": 16,
+        "ma": 9,
+        "vi": 15,
+        "ag": 10,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "弱",
+        "commands": [
+            "会心の予言"
+        ],
+        "passives": [
+            "勝利の息吹",
+            "エクストラワン"
+        ],
+        "racial": "飛翔"
+    },
+    {
+        "name": "ルフ",
+        "race": "霊鳥",
+        "level": 43,
+        "unique": false,
+        "HP": 366,
+        "MP": 110,
+        "st": 19,
+        "ma": 12,
+        "vi": 18,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "ー",
+        "commands": [
+            "マハブフダイン"
+        ],
+        "passives": [
+            "二身の残影"
+        ],
+        "racial": "飛翔"
+    },
+    {
+        "name": "カウ",
+        "race": "霊鳥",
+        "level": 56,
+        "unique": false,
+        "HP": 420,
+        "MP": 158,
+        "st": 14,
+        "ma": 23,
+        "vi": 14,
+        "ag": 21,
+        "phys": "ー",
+        "fire": "無",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "マハラギダイン",
+            "メギド"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "飛翔"
+    },
+    {
+        "name": "ガルーダ",
+        "race": "霊鳥",
+        "level": 71,
+        "unique": false,
+        "HP": 534,
+        "MP": 178,
+        "st": 22,
+        "ma": 18,
+        "vi": 18,
+        "ag": 28,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "弱",
+        "mystic": "無",
+        "commands": [
+            "メギドラオン"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "飛翔"
+    },
+    {
+        "name": "ガギソン",
+        "race": "堕天使",
+        "level": 12,
+        "unique": false,
+        "HP": 125,
+        "MP": 40,
+        "st": 7,
+        "ma": 8,
+        "vi": 7,
+        "ag": 6,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "ー",
+        "commands": [
+            "ジオ",
+            "雷の乱舞"
+        ],
+        "passives": [
+            "一分の活泉",
+            "反撃"
+        ],
+        "racial": "いけにえの盟約"
+    },
+    {
+        "name": "ニスロク",
+        "race": "堕天使",
+        "level": 27,
+        "unique": false,
+        "HP": 216,
+        "MP": 78,
+        "st": 12,
+        "ma": 12,
+        "vi": 8,
+        "ag": 11,
+        "phys": "ー",
+        "fire": "無",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "マハラギ",
+            "弱者必滅拳"
+        ],
+        "passives": [
+            "マヒ追加",
+            "三分の魔脈"
+        ],
+        "racial": "いけにえの盟約"
+    },
+    {
+        "name": "オロバス",
+        "race": "堕天使",
+        "level": 35,
+        "unique": false,
+        "HP": 253,
+        "MP": 148,
+        "st": 10,
+        "ma": 18,
+        "vi": 11,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "弱",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "マハジオ",
+            "弱者必滅拳"
+        ],
+        "passives": [
+            "魔力無効",
+            "電撃激化"
+        ],
+        "racial": "いけにえの盟約"
+    },
+    {
+        "name": "デカラビア",
+        "race": "堕天使",
+        "level": 44,
+        "unique": false,
+        "HP": 313,
+        "MP": 161,
+        "st": 16,
+        "ma": 16,
+        "vi": 11,
+        "ag": 15,
+        "phys": "耐",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "弱",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "アギダイン",
+            "護りの盾"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "いけにえの盟約"
+    },
+    {
+        "name": "アガレス",
+        "race": "堕天使",
+        "level": 57,
+        "unique": false,
+        "HP": 458,
+        "MP": 177,
+        "st": 21,
+        "ma": 17,
+        "vi": 17,
+        "ag": 18,
+        "phys": "吸",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "耐",
+        "mystic": "弱",
+        "commands": [
+            "ギガジャマ",
+            "テトラカーン"
+        ],
+        "passives": [
+            "物理吸収"
+        ],
+        "racial": "いけにえの盟約"
+    },
+    {
+        "name": "ミスラ",
+        "race": "堕天使",
+        "level": 62,
+        "unique": false,
+        "HP": 489,
+        "MP": 166,
+        "st": 22,
+        "ma": 21,
+        "vi": 17,
+        "ag": 18,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "弱",
+        "elec": "反",
+        "force": "反",
+        "mystic": "弱",
+        "commands": [
+            "死神の点呼",
+            "テトラカーン"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "いけにえの盟約"
+    },
+    {
+        "name": "ムールムール",
+        "race": "堕天使",
+        "level": 73,
+        "unique": false,
+        "HP": 570,
+        "MP": 196,
+        "st": 25,
+        "ma": 25,
+        "vi": 19,
+        "ag": 19,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "反",
+        "elec": "弱",
+        "force": "反",
+        "mystic": "弱",
+        "commands": [
+            "死神の点呼",
+            "万魔の一撃"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "いけにえの盟約"
+    },
+    {
+        "name": "ヘケト",
+        "race": "神獣",
+        "level": 9,
+        "unique": false,
+        "HP": 90,
+        "MP": 34,
+        "st": 7,
+        "ma": 8,
+        "vi": 6,
+        "ag": 4,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "無",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "ブフ"
+        ],
+        "passives": [
+            "騎士の精神"
+        ],
+        "racial": "瞬転の舞"
+    },
+    {
+        "name": "シーサー",
+        "race": "神獣",
+        "level": 19,
+        "unique": false,
+        "HP": 162,
+        "MP": 52,
+        "st": 10,
+        "ma": 7,
+        "vi": 8,
+        "ag": 10,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "吸",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "捨身の一撃",
+            "マハジオ"
+        ],
+        "passives": [
+            "猛反撃"
+        ],
+        "racial": "瞬転の舞"
+    },
+    {
+        "name": "ハクタク",
+        "race": "神獣",
+        "level": 27,
+        "unique": false,
+        "HP": 216,
+        "MP": 85,
+        "st": 11,
+        "ma": 12,
+        "vi": 9,
+        "ag": 11,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "弱",
+        "mystic": "ー",
+        "commands": [
+            "ディアラハン",
+            "パララレイ"
+        ],
+        "passives": [
+            "耐氷結"
+        ],
+        "racial": "瞬転の舞"
+    },
+    {
+        "name": "アイラーヴァタ",
+        "race": "神獣",
+        "level": 40,
+        "unique": false,
+        "HP": 488,
+        "MP": 104,
+        "st": 16,
+        "ma": 12,
+        "vi": 21,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "耐",
+        "elec": "ー",
+        "force": "無",
+        "mystic": "ー",
+        "commands": [
+            "ザンダイン"
+        ],
+        "passives": [
+            "衝撃無効",
+            "衝撃激化"
+        ],
+        "racial": "瞬転の舞"
+    },
+    {
+        "name": "ウカノミタマ",
+        "race": "神獣",
+        "level": 52,
+        "unique": false,
+        "HP": 330,
+        "MP": 175,
+        "st": 16,
+        "ma": 18,
+        "vi": 14,
+        "ag": 20,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "反",
+        "mystic": "耐",
+        "commands": [
+            "ディアラハン",
+            "マハザンダイン"
+        ],
+        "passives": [
+            "衝撃反射"
+        ],
+        "racial": "瞬転の舞"
+    },
+    {
+        "name": "バロン",
+        "race": "神獣",
+        "level": 63,
+        "unique": false,
+        "HP": 486,
+        "MP": 170,
+        "st": 23,
+        "ma": 22,
+        "vi": 18,
+        "ag": 17,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "吸",
+        "force": "弱",
+        "mystic": "ー",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "勝利のチャクラ"
+        ],
+        "racial": "瞬転の舞"
+    },
+    {
+        "name": "カブソ",
+        "race": "魔獣",
+        "level": 2,
+        "unique": false,
+        "HP": 33,
+        "MP": 21,
+        "st": 4,
+        "ma": 6,
+        "vi": 4,
+        "ag": 4,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "弱",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "アギ",
+            "ザン"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "獣の跳躍"
+    },
+    {
+        "name": "ヘアリージャック",
+        "race": "魔獣",
+        "level": 10,
+        "unique": false,
+        "HP": 84,
+        "MP": 30,
+        "st": 7,
+        "ma": 5,
+        "vi": 5,
+        "ag": 9,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "耐",
+        "elec": "弱",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "怒りの一撃"
+        ],
+        "passives": [
+            "毒追加",
+            "一分の活泉"
+        ],
+        "racial": "獣の跳躍"
+    },
+    {
+        "name": "ネコマタ",
+        "race": "魔獣",
+        "level": 19,
+        "unique": false,
+        "HP": 148,
+        "MP": 46,
+        "st": 11,
+        "ma": 4,
+        "vi": 8,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "弱",
+        "force": "吸",
+        "mystic": "ー",
+        "commands": [
+            "パララレイ"
+        ],
+        "passives": [
+            "マヒ追加",
+            "見覚えの成長"
+        ],
+        "racial": "獣の跳躍"
+    },
+    {
+        "name": "ケットシー",
+        "race": "魔獣",
+        "level": 25,
+        "unique": false,
+        "HP": 204,
+        "MP": 74,
+        "st": 9,
+        "ma": 12,
+        "vi": 9,
+        "ag": 11,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "弱",
+        "force": "耐",
+        "mystic": "ー",
+        "commands": [
+            "マハザン",
+            "マハラギ"
+        ],
+        "passives": [
+            "衝撃強化"
+        ],
+        "racial": "獣の跳躍"
+    },
+    {
+        "name": "オルトロス",
+        "race": "魔獣",
+        "level": 35,
+        "unique": false,
+        "HP": 245,
+        "MP": 88,
+        "st": 16,
+        "ma": 9,
+        "vi": 14,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "吸",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "耐",
+        "mystic": "ー",
+        "commands": [
+            "炎の乱舞"
+        ],
+        "passives": [
+            "貫通",
+            "火炎激化"
+        ],
+        "racial": "獣の跳躍"
+    },
+    {
+        "name": "ケルベロス",
+        "race": "魔獣",
+        "level": 53,
+        "unique": false,
+        "HP": 476,
+        "MP": 94,
+        "st": 23,
+        "ma": 10,
+        "vi": 15,
+        "ag": 21,
+        "phys": "耐",
+        "fire": "反",
+        "ice": "弱",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "マハラギダイン"
+        ],
+        "passives": [
+            "勇者の精神"
+        ],
+        "racial": "獣の跳躍"
+    },
+    {
+        "name": "カブラカン",
+        "race": "魔獣",
+        "level": 68,
+        "unique": false,
+        "HP": 686,
+        "MP": 156,
+        "st": 25,
+        "ma": 10,
+        "vi": 30,
+        "ag": 19,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "反",
+        "commands": [
+            "千烈突き"
+        ],
+        "passives": [
+            "超反撃"
+        ],
+        "racial": "獣の跳躍"
+    },
+    {
+        "name": "ワイラ",
+        "race": "妖獣",
+        "level": 7,
+        "unique": false,
+        "HP": 78,
+        "MP": 35,
+        "st": 6,
+        "ma": 7,
+        "vi": 5,
+        "ag": 5,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "ザン"
+        ],
+        "passives": [
+            "英霊の加護",
+            "一分の活泉"
+        ],
+        "racial": "妖気迅雷"
+    },
+    {
+        "name": "ガルム",
+        "race": "妖獣",
+        "level": 11,
+        "unique": false,
+        "HP": 110,
+        "MP": 22,
+        "st": 11,
+        "ma": 3,
+        "vi": 6,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "耐",
+        "commands": [
+            "アギ"
+        ],
+        "passives": [
+            "見覚えの成長",
+            "反撃"
+        ],
+        "racial": "妖気迅雷"
+    },
+    {
+        "name": "アーヴァンク",
+        "race": "妖獣",
+        "level": 26,
+        "unique": false,
+        "HP": 228,
+        "MP": 66,
+        "st": 11,
+        "ma": 7,
+        "vi": 12,
+        "ag": 12,
+        "phys": "耐",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "耐",
+        "mystic": "ー",
+        "commands": [
+            "氷の乱舞"
+        ],
+        "passives": [
+            "物理強化",
+            "猛反撃"
+        ],
+        "racial": "妖気迅雷"
+    },
+    {
+        "name": "モスマン",
+        "race": "妖獣",
+        "level": 34,
+        "unique": false,
+        "HP": 250,
+        "MP": 153,
+        "st": 12,
+        "ma": 17,
+        "vi": 16,
+        "ag": 5,
+        "phys": "ー",
+        "fire": "無",
+        "ice": "耐",
+        "elec": "弱",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "メディア",
+            "マハザン"
+        ],
+        "passives": [
+            "食いしばり"
+        ],
+        "racial": "妖気迅雷"
+    },
+    {
+        "name": "カトブレパス",
+        "race": "妖獣",
+        "level": 54,
+        "unique": false,
+        "HP": 426,
+        "MP": 144,
+        "st": 22,
+        "ma": 18,
+        "vi": 17,
+        "ag": 13,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "耐",
+        "elec": "反",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "デスバウンド"
+        ],
+        "passives": [
+            "攻撃全体化"
+        ],
+        "racial": "妖気迅雷"
+    },
+    {
+        "name": "ベヒモス",
+        "race": "妖獣",
+        "level": 70,
+        "unique": false,
+        "HP": 808,
+        "MP": 64,
+        "st": 37,
+        "ma": 10,
+        "vi": 31,
+        "ag": 8,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "エクストラゼロ"
+        ],
+        "racial": "妖気迅雷"
+    },
+    {
+        "name": "ジャンバヴァン",
+        "race": "幻魔",
+        "level": 9,
+        "unique": false,
+        "HP": 136,
+        "MP": 12,
+        "st": 10,
+        "ma": 3,
+        "vi": 9,
+        "ag": 3,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "弱",
+        "elec": "弱",
+        "force": "耐",
+        "mystic": "ー",
+        "commands": [
+            "アギ"
+        ],
+        "passives": [
+            "騎士の精神",
+            "同族の心得・攻"
+        ],
+        "racial": "夢幻の具足"
+    },
+    {
+        "name": "トラロック",
+        "race": "幻魔",
+        "level": 16,
+        "unique": false,
+        "HP": 138,
+        "MP": 70,
+        "st": 10,
+        "ma": 9,
+        "vi": 7,
+        "ag": 6,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "炎の乱舞"
+        ],
+        "passives": [
+            "耐火炎"
+        ],
+        "racial": "夢幻の具足"
+    },
+    {
+        "name": "ヘイムダル",
+        "race": "幻魔",
+        "level": 23,
+        "unique": false,
+        "HP": 180,
+        "MP": 64,
+        "st": 9,
+        "ma": 9,
+        "vi": 7,
+        "ag": 14,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "反",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "耐",
+        "commands": [
+            "覚悟の挑発"
+        ],
+        "passives": [
+            "見覚えの成長",
+            "耐魔力"
+        ],
+        "racial": "夢幻の具足"
+    },
+    {
+        "name": "ハヌマーン",
+        "race": "幻魔",
+        "level": 32,
+        "unique": false,
+        "HP": 264,
+        "MP": 80,
+        "st": 13,
+        "ma": 8,
+        "vi": 12,
+        "ag": 15,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "ー",
+        "commands": [
+            "嵐の乱舞"
+        ],
+        "passives": [
+            "猛反撃",
+            "食いしばり"
+        ],
+        "racial": "夢幻の具足"
+    },
+    {
+        "name": "クー・フーリン",
+        "race": "幻魔",
+        "level": 39,
+        "unique": true,
+        "HP": 364,
+        "MP": 49,
+        "st": 22,
+        "ma": 10,
+        "vi": 13,
+        "ag": 10,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "弱",
+        "elec": "耐",
+        "force": "反",
+        "mystic": "ー",
+        "commands": [
+            "ジオダイン"
+        ],
+        "passives": [
+            "貫通",
+            "物理激化"
+        ],
+        "racial": "夢幻の具足"
+    },
+    {
+        "name": "クルースニク",
+        "race": "幻魔",
+        "level": 46,
+        "unique": true,
+        "HP": 381,
+        "MP": 120,
+        "st": 23,
+        "ma": 14,
+        "vi": 11,
+        "ag": 14,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "耐",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "マハラギダイン"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "夢幻の具足"
+    },
+    {
+        "name": "セイテンタイセイ",
+        "race": "幻魔",
+        "level": 53,
+        "unique": true,
+        "HP": 455,
+        "MP": 94,
+        "st": 23,
+        "ma": 10,
+        "vi": 17,
+        "ag": 19,
+        "phys": "無",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "八相発破"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "夢幻の具足"
+    },
+    {
+        "name": "ロイチェクタ",
+        "race": "幻魔",
+        "level": 60,
+        "unique": false,
+        "HP": 504,
+        "MP": 135,
+        "st": 12,
+        "ma": 20,
+        "vi": 20,
+        "ag": 24,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "吸",
+        "elec": "弱",
+        "force": "反",
+        "mystic": "耐",
+        "commands": [
+            "裁きの雷火"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "夢幻の具足"
+    },
+    {
+        "name": "ガネーシャ",
+        "race": "幻魔",
+        "level": 68,
+        "unique": false,
+        "HP": 564,
+        "MP": 182,
+        "st": 28,
+        "ma": 23,
+        "vi": 26,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "吸",
+        "elec": "弱",
+        "force": "吸",
+        "mystic": "耐",
+        "commands": [
+            "メギド"
+        ],
+        "passives": [
+            "衝撃吸収"
+        ],
+        "racial": "夢幻の具足"
+    },
+    {
+        "name": "ピクシー",
+        "race": "妖精",
+        "level": 2,
+        "unique": false,
+        "HP": 30,
+        "MP": 27,
+        "st": 3,
+        "ma": 7,
+        "vi": 4,
+        "ag": 4,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "ディア",
+            "ジオ"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "おまじない"
+    },
+    {
+        "name": "キジムナー",
+        "race": "妖精",
+        "level": 8,
+        "unique": false,
+        "HP": 60,
+        "MP": 42,
+        "st": 6,
+        "ma": 6,
+        "vi": 4,
+        "ag": 8,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "ザン"
+        ],
+        "passives": [
+            "一分の魔脈"
+        ],
+        "racial": "おまじない"
+    },
+    {
+        "name": "ジャックフロスト",
+        "race": "妖精",
+        "level": 14,
+        "unique": false,
+        "HP": 132,
+        "MP": 52,
+        "st": 7,
+        "ma": 10,
+        "vi": 8,
+        "ag": 5,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "吸",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "ブフ",
+            "氷の乱舞"
+        ],
+        "passives": [
+            "一分の魔脈",
+            "耐魔力"
+        ],
+        "racial": "おまじない"
+    },
+    {
+        "name": "ジャックランタン",
+        "race": "妖精",
+        "level": 19,
+        "unique": false,
+        "HP": 140,
+        "MP": 90,
+        "st": 8,
+        "ma": 11,
+        "vi": 9,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "吸",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "炎の乱舞",
+            "マハラギ"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "おまじない"
+    },
+    {
+        "name": "シルキー",
+        "race": "妖精",
+        "level": 24,
+        "unique": false,
+        "HP": 155,
+        "MP": 133,
+        "st": 9,
+        "ma": 14,
+        "vi": 9,
+        "ag": 8,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "無",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "ブフ",
+            "メディア"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "おまじない"
+    },
+    {
+        "name": "ローレライ",
+        "race": "妖精",
+        "level": 33,
+        "unique": false,
+        "HP": 200,
+        "MP": 153,
+        "st": 8,
+        "ma": 18,
+        "vi": 7,
+        "ag": 16,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "弱",
+        "commands": [
+            "ディアラハン",
+            "マカジャマオン"
+        ],
+        "passives": [
+            "見覚えの急成長"
+        ],
+        "racial": "おまじない"
+    },
+    {
+        "name": "ヴィヴィアン",
+        "race": "妖精",
+        "level": 45,
+        "unique": false,
+        "HP": 261,
+        "MP": 261,
+        "st": 10,
+        "ma": 22,
+        "vi": 13,
+        "ag": 13,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "吸",
+        "force": "耐",
+        "mystic": "ー",
+        "commands": [
+            "吸魔",
+            "ジオダイン"
+        ],
+        "passives": [
+            "三分の魔脈",
+            "電撃反射"
+        ],
+        "racial": "おまじない"
+    },
+    {
+        "name": "スプリガン",
+        "race": "妖精",
+        "level": 54,
+        "unique": false,
+        "HP": 432,
+        "MP": 156,
+        "st": 12,
+        "ma": 24,
+        "vi": 18,
+        "ag": 16,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "無",
+        "force": "無",
+        "mystic": "弱",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "二身の残影"
+        ],
+        "racial": "おまじない"
+    },
+    {
+        "name": "トロール",
+        "race": "妖精",
+        "level": 69,
+        "unique": false,
+        "HP": 528,
+        "MP": 202,
+        "st": 30,
+        "ma": 23,
+        "vi": 19,
+        "ag": 13,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "吸",
+        "elec": "弱",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "貫通の一撃"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "おまじない"
+    },
+    {
+        "name": "キングフロスト",
+        "race": "魔王",
+        "level": 22,
+        "unique": true,
+        "HP": 180,
+        "MP": 64,
+        "st": 13,
+        "ma": 10,
+        "vi": 8,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "吸",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "無",
+        "commands": [
+            "マハブフ"
+        ],
+        "passives": [
+            "氷結強化"
+        ],
+        "racial": "覇王の盟約"
+    },
+    {
+        "name": "ルキフグス",
+        "race": "魔王",
+        "level": 34,
+        "unique": true,
+        "HP": 233,
+        "MP": 131,
+        "st": 12,
+        "ma": 13,
+        "vi": 11,
+        "ag": 14,
+        "phys": "耐",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "耐",
+        "commands": [
+            "アギダイン"
+        ],
+        "passives": [
+            "耐物理"
+        ],
+        "racial": "覇王の盟約"
+    },
+    {
+        "name": "ヘカーテ",
+        "race": "魔王",
+        "level": 42,
+        "unique": true,
+        "HP": 270,
+        "MP": 186,
+        "st": 13,
+        "ma": 20,
+        "vi": 12,
+        "ag": 13,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "耐",
+        "commands": [
+            "メディアラハン"
+        ],
+        "passives": [
+            "全門耐性",
+            "貫通"
+        ],
+        "racial": "覇王の盟約"
+    },
+    {
+        "name": "アスタロト",
+        "race": "魔王",
+        "level": 51,
+        "unique": true,
+        "HP": 372,
+        "MP": 136,
+        "st": 27,
+        "ma": 17,
+        "vi": 11,
+        "ag": 13,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "無",
+        "commands": [
+            "デスバウンド"
+        ],
+        "passives": [
+            "魔力無効"
+        ],
+        "racial": "覇王の盟約"
+    },
+    {
+        "name": "ロキ",
+        "race": "魔王",
+        "level": 64,
+        "unique": true,
+        "HP": 522,
+        "MP": 174,
+        "st": 19,
+        "ma": 23,
+        "vi": 23,
+        "ag": 15,
+        "phys": "耐",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "耐",
+        "commands": [
+            "メギド"
+        ],
+        "passives": [
+            "真・全門耐性"
+        ],
+        "racial": "覇王の盟約"
+    },
+    {
+        "name": "ルシファー",
+        "race": "魔王",
+        "level": 99,
+        "unique": true,
+        "HP": 999,
+        "MP": 516,
+        "st": 29,
+        "ma": 30,
+        "vi": 28,
+        "ag": 28,
+        "phys": "耐",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "無",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "覇王の盟約"
+    },
+    {
+        "name": "コボルト",
+        "race": "闘鬼",
+        "level": 3,
+        "unique": false,
+        "HP": 48,
+        "MP": 12,
+        "st": 4,
+        "ma": 3,
+        "vi": 5,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "英霊の加護"
+        ],
+        "racial": "凶化"
+    },
+    {
+        "name": "ビルヴィス",
+        "race": "闘鬼",
+        "level": 9,
+        "unique": false,
+        "HP": 112,
+        "MP": 6,
+        "st": 7,
+        "ma": 4,
+        "vi": 7,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "弱",
+        "force": "無",
+        "mystic": "ー",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "英霊の加護",
+            "同族の心得・防"
+        ],
+        "racial": "凶化"
+    },
+    {
+        "name": "ゴズキ",
+        "race": "闘鬼",
+        "level": 16,
+        "unique": false,
+        "HP": 182,
+        "MP": 20,
+        "st": 13,
+        "ma": 4,
+        "vi": 10,
+        "ag": 5,
+        "phys": "ー",
+        "fire": "反",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "耐",
+        "mystic": "弱",
+        "commands": [
+            "暴れまくり",
+            "火事場撃"
+        ],
+        "passives": [
+            "同族の心得・攻"
+        ],
+        "racial": "凶化"
+    },
+    {
+        "name": "メズキ",
+        "race": "闘鬼",
+        "level": 20,
+        "unique": false,
+        "HP": 176,
+        "MP": 75,
+        "st": 9,
+        "ma": 10,
+        "vi": 8,
+        "ag": 9,
+        "phys": "ー",
+        "fire": "反",
+        "ice": "弱",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "マハジオ"
+        ],
+        "passives": [
+            "同族の心得・攻",
+            "電撃強化"
+        ],
+        "racial": "凶化"
+    },
+    {
+        "name": "トケビ",
+        "race": "闘鬼",
+        "level": 26,
+        "unique": false,
+        "HP": 162,
+        "MP": 92,
+        "st": 11,
+        "ma": 11,
+        "vi": 10,
+        "ag": 10,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "耐",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "なぎ払い"
+        ],
+        "passives": [
+            "耐火炎"
+        ],
+        "racial": "凶化"
+    },
+    {
+        "name": "ベルセルク",
+        "race": "闘鬼",
+        "level": 41,
+        "unique": false,
+        "HP": 414,
+        "MP": 47,
+        "st": 26,
+        "ma": 6,
+        "vi": 15,
+        "ag": 10,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "無",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "食いしばり",
+            "二身の残影"
+        ],
+        "racial": "凶化"
+    },
+    {
+        "name": "ヤクシャ",
+        "race": "闘鬼",
+        "level": 52,
+        "unique": false,
+        "HP": 462,
+        "MP": 63,
+        "st": 25,
+        "ma": 11,
+        "vi": 14,
+        "ag": 18,
+        "phys": "ー",
+        "fire": "無",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "弱",
+        "mystic": "耐",
+        "commands": [
+            "ディアラハン",
+            "デスバウンド"
+        ],
+        "passives": [
+            "火炎無効"
+        ],
+        "racial": "凶化"
+    },
+    {
+        "name": "オンギョウキ",
+        "race": "闘鬼",
+        "level": 83,
+        "unique": true,
+        "HP": 749,
+        "MP": 104,
+        "st": 31,
+        "ma": 21,
+        "vi": 24,
+        "ag": 23,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "無",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "八相発破",
+            "貫通の一撃"
+        ],
+        "passives": [
+            "電撃無効"
+        ],
+        "racial": "凶化"
+    },
+    {
+        "name": "オーガ",
+        "race": "邪鬼",
+        "level": 4,
+        "unique": false,
+        "HP": 72,
+        "MP": 8,
+        "st": 9,
+        "ma": 4,
+        "vi": 5,
+        "ag": 2,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "耐",
+        "elec": "弱",
+        "force": "弱",
+        "mystic": "ー",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "騎士の精神"
+        ],
+        "racial": "呪縛"
+    },
+    {
+        "name": "オグン",
+        "race": "邪鬼",
+        "level": 8,
+        "unique": false,
+        "HP": 104,
+        "MP": 11,
+        "st": 10,
+        "ma": 3,
+        "vi": 5,
+        "ag": 6,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "怒りの一撃",
+            "アギ"
+        ],
+        "passives": [
+            "騎士の精神",
+            "一分の活泉"
+        ],
+        "racial": "呪縛"
+    },
+    {
+        "name": "ウェンディゴ",
+        "race": "邪鬼",
+        "level": 19,
+        "unique": false,
+        "HP": 196,
+        "MP": 48,
+        "st": 10,
+        "ma": 5,
+        "vi": 9,
+        "ag": 11,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "反",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "氷の乱舞",
+            "絶妙打"
+        ],
+        "passives": [
+            "耐氷結"
+        ],
+        "racial": "呪縛"
+    },
+    {
+        "name": "ロア",
+        "race": "邪鬼",
+        "level": 28,
+        "unique": false,
+        "HP": 253,
+        "MP": 88,
+        "st": 11,
+        "ma": 16,
+        "vi": 11,
+        "ag": 6,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "パララレイ",
+            "クロスレイ"
+        ],
+        "passives": [
+            "三分の活泉"
+        ],
+        "racial": "呪縛"
+    },
+    {
+        "name": "レギオン",
+        "race": "邪鬼",
+        "level": 37,
+        "unique": false,
+        "HP": 280,
+        "MP": 135,
+        "st": 9,
+        "ma": 17,
+        "vi": 19,
+        "ag": 8,
+        "phys": "耐",
+        "fire": "弱",
+        "ice": "ー",
+        "elec": "弱",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "ペトラレイ",
+            "氷の乱舞"
+        ],
+        "passives": [
+            "耐物理",
+            "氷結激化"
+        ],
+        "racial": "呪縛"
+    },
+    {
+        "name": "クドラク",
+        "race": "邪鬼",
+        "level": 46,
+        "unique": true,
+        "HP": 441,
+        "MP": 127,
+        "st": 18,
+        "ma": 12,
+        "vi": 17,
+        "ag": 15,
+        "phys": "耐",
+        "fire": "弱",
+        "ice": "反",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "吸収追加"
+        ],
+        "racial": "呪縛"
+    },
+    {
+        "name": "マカーブル",
+        "race": "邪鬼",
+        "level": 65,
+        "unique": false,
+        "HP": 510,
+        "MP": 200,
+        "st": 27,
+        "ma": 15,
+        "vi": 20,
+        "ag": 19,
+        "phys": "ー",
+        "fire": "吸",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "弱",
+        "commands": [
+            "最後の一撃"
+        ],
+        "passives": [
+            "火炎吸収"
+        ],
+        "racial": "呪縛"
+    },
+    {
+        "name": "キキーモラ",
+        "race": "鬼女",
+        "level": 10,
+        "unique": false,
+        "HP": 75,
+        "MP": 57,
+        "st": 5,
+        "ma": 9,
+        "vi": 5,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "無",
+        "commands": [
+            "ディア",
+            "ザン"
+        ],
+        "passives": [
+            "一分の魔脈"
+        ],
+        "racial": "献身"
+    },
+    {
+        "name": "リリム",
+        "race": "鬼女",
+        "level": 15,
+        "unique": false,
+        "HP": 116,
+        "MP": 62,
+        "st": 7,
+        "ma": 10,
+        "vi": 7,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "クロスレイ",
+            "雷の乱舞"
+        ],
+        "passives": [
+            "一分の魔脈",
+            "耐電撃"
+        ],
+        "racial": "献身"
+    },
+    {
+        "name": "ユキジョロウ",
+        "race": "鬼女",
+        "level": 19,
+        "unique": false,
+        "HP": 130,
+        "MP": 99,
+        "st": 7,
+        "ma": 14,
+        "vi": 7,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "弱",
+        "ice": "吸",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "ー",
+        "commands": [
+            "アムリタ",
+            "マハブフ"
+        ],
+        "passives": [
+            "封魔追加",
+            "マヒ追加"
+        ],
+        "racial": "献身"
+    },
+    {
+        "name": "ペリ",
+        "race": "鬼女",
+        "level": 28,
+        "unique": false,
+        "HP": 210,
+        "MP": 90,
+        "st": 8,
+        "ma": 17,
+        "vi": 7,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "マハジオ",
+            "吸魔"
+        ],
+        "passives": [
+            "耐電撃",
+            "三分の魔脈"
+        ],
+        "racial": "献身"
+    },
+    {
+        "name": "ハリティー",
+        "race": "鬼女",
+        "level": 39,
+        "unique": false,
+        "HP": 312,
+        "MP": 102,
+        "st": 18,
+        "ma": 12,
+        "vi": 13,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "ー",
+        "elec": "無",
+        "force": "弱",
+        "mystic": "耐",
+        "commands": [
+            "ジオダイン"
+        ],
+        "passives": [
+            "エクストラワン",
+            "電撃無効"
+        ],
+        "racial": "献身"
+    },
+    {
+        "name": "ランダ",
+        "race": "鬼女",
+        "level": 49,
+        "unique": false,
+        "HP": 330,
+        "MP": 183,
+        "st": 20,
+        "ma": 12,
+        "vi": 17,
+        "ag": 16,
+        "phys": "反",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "弱",
+        "force": "耐",
+        "mystic": "耐",
+        "commands": [
+            "ディアジャマ"
+        ],
+        "passives": [
+            "物理反射"
+        ],
+        "racial": "献身"
+    },
+    {
+        "name": "ジャヒー",
+        "race": "鬼女",
+        "level": 67,
+        "unique": false,
+        "HP": 428,
+        "MP": 288,
+        "st": 21,
+        "ma": 26,
+        "vi": 17,
+        "ag": 19,
+        "phys": "ー",
+        "fire": "耐",
+        "ice": "弱",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "ー",
+        "commands": [
+            "リカームロス"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "献身"
+    },
+    {
+        "name": "アーシーズ",
+        "race": "精霊",
+        "level": 7,
+        "unique": false,
+        "HP": 75,
+        "MP": 36,
+        "st": 6,
+        "ma": 5,
+        "vi": 8,
+        "ag": 4,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "無",
+        "commands": [
+            "アムリタ"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "−"
+    },
+    {
+        "name": "エアロス",
+        "race": "精霊",
+        "level": 11,
+        "unique": false,
+        "HP": 85,
+        "MP": 57,
+        "st": 5,
+        "ma": 8,
+        "vi": 6,
+        "ag": 8,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "耐",
+        "force": "耐",
+        "mystic": "無",
+        "commands": [
+            "ジオ"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "−"
+    },
+    {
+        "name": "アクアンズ",
+        "race": "精霊",
+        "level": 15,
+        "unique": false,
+        "HP": 110,
+        "MP": 75,
+        "st": 7,
+        "ma": 10,
+        "vi": 7,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "反",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "氷の乱舞"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "−"
+    },
+    {
+        "name": "フレイミーズ",
+        "race": "精霊",
+        "level": 20,
+        "unique": false,
+        "HP": 135,
+        "MP": 96,
+        "st": 10,
+        "ma": 12,
+        "vi": 7,
+        "ag": 7,
+        "phys": "ー",
+        "fire": "吸",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "マハラギ"
+        ],
+        "passives": [
+            "火炎強化"
+        ],
+        "racial": "−"
+    },
+    {
+        "name": "サキミタマ",
+        "race": "御霊",
+        "level": 35,
+        "unique": false,
+        "HP": 280,
+        "MP": 135,
+        "st": 10,
+        "ma": 10,
+        "vi": 21,
+        "ag": 10,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "−"
+    },
+    {
+        "name": "クシミタマ",
+        "race": "御霊",
+        "level": 38,
+        "unique": false,
+        "HP": 245,
+        "MP": 147,
+        "st": 11,
+        "ma": 11,
+        "vi": 11,
+        "ag": 21,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "−"
+    },
+    {
+        "name": "アラミタマ",
+        "race": "御霊",
+        "level": 41,
+        "unique": false,
+        "HP": 265,
+        "MP": 159,
+        "st": 21,
+        "ma": 12,
+        "vi": 12,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "−"
+    },
+    {
+        "name": "ニギミタマ",
+        "race": "御霊",
+        "level": 44,
+        "unique": false,
+        "HP": 285,
+        "MP": 195,
+        "st": 13,
+        "ma": 21,
+        "vi": 13,
+        "ag": 13,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "無",
+        "commands": [
+            "ー"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "−"
+    }
+]
