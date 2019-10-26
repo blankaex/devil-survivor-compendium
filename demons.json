@@ -2562,6 +2562,181 @@
         "racial": "覇王の盟約"
     },
     {
+        "name": "ウベルリ",
+        "race": "鬼神",
+        "level": 14,
+        "unique": false,
+        "HP": 158,
+        "MP": 18,
+        "st": 11,
+        "ma": 4,
+        "vi": 10,
+        "ag": 6,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "弱",
+        "commands": [
+            "暴れまくり&br;覚悟の挑発(15)"
+        ],
+        "passives": [
+            "反撃(16)"
+        ],
+        "racial": "鬼神双手"
+    },
+    {
+        "name": "ナラギリ",
+        "race": "鬼神",
+        "level": 26,
+        "unique": false,
+        "HP": 272,
+        "MP": 33,
+        "st": 13,
+        "ma": 7,
+        "vi": 14,
+        "ag": 8,
+        "phys": "耐",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "マハラギ&br;捨身の一撃(27)"
+        ],
+        "passives": [
+            "耐物理(28)"
+        ],
+        "racial": "鬼神双手"
+    },
+    {
+        "name": "タケミカヅチ",
+        "race": "鬼神",
+        "level": 42,
+        "unique": true,
+        "HP": 417,
+        "MP": 52,
+        "st": 21,
+        "ma": 10,
+        "vi": 16,
+        "ag": 11,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "反",
+        "force": "弱",
+        "mystic": "耐",
+        "commands": [
+            "マハジオ&br;渾身の一撃(43)"
+        ],
+        "passives": [
+            "物理激化(44)"
+        ],
+        "racial": "鬼神双手"
+    },
+    {
+        "name": "ゾウチョウテン",
+        "race": "鬼神",
+        "level": 50,
+        "unique": true,
+        "HP": 536,
+        "MP": 130,
+        "st": 21,
+        "ma": 15,
+        "vi": 17,
+        "ag": 12,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "弱",
+        "mystic": "無",
+        "commands": [
+            "アギダイン(51)"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "鬼神双手"
+    },
+    {
+        "name": "コウモクテン",
+        "race": "鬼神",
+        "level": 57,
+        "unique": true,
+        "HP": 616,
+        "MP": 148,
+        "st": 22,
+        "ma": 17,
+        "vi": 20,
+        "ag": 14,
+        "phys": "ー",
+        "fire": "ー",
+        "ice": "ー",
+        "elec": "弱",
+        "force": "反",
+        "mystic": "耐",
+        "commands": [
+            "マハザンダイン(58)"
+        ],
+        "passives": [
+            "ー"
+        ],
+        "racial": "鬼神双手"
+    },
+    {
+        "name": "ビシャモンテン",
+        "race": "鬼神",
+        "level": 65,
+        "unique": true,
+        "HP": 712,
+        "MP": 162,
+        "st": 25,
+        "ma": 16,
+        "vi": 24,
+        "ag": 16,
+        "phys": "耐",
+        "fire": "反",
+        "ice": "弱",
+        "elec": "ー",
+        "force": "ー",
+        "mystic": "耐",
+        "commands": [
+            "八相発破(67)"
+        ],
+        "passives": [
+            "火炎反射(66)"
+        ],
+        "racial": "鬼神双手"
+    },
+    {
+        "name": "オオクニヌシ",
+        "race": "鬼神",
+        "level": 87,
+        "unique": true,
+        "HP": 912,
+        "MP": 218,
+        "st": 31,
+        "ma": 22,
+        "vi": 27,
+        "ag": 23,
+        "phys": "ー",
+        "fire": "反",
+        "ice": "ー",
+        "elec": "ー",
+        "force": "耐",
+        "mystic": "弱",
+        "commands": [
+            "万魔の一撃"
+        ],
+        "passives": [
+            "真・全門耐性(89)"
+        ],
+        "racial": "鬼神双手"
+    },
+    {
         "name": "コボルト",
         "race": "闘鬼",
         "level": 3,
